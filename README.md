@@ -9,5 +9,5 @@ Persist the selected cards so by RELOADING the page, the state to be persisted.
 
 <img width="1210" alt="image" src="https://github.com/SamanKT/User-Carts_challenge/assets/49819814/790b7dc5-2af0-4655-91dd-3f8877e24564">
 
-<img width="1210" alt="image" src="https://github.com/SamanKT/User-Carts_challenge/assets/49819814/f423e17e-e195-467e-bd1d-bd99387c4987">
+<img width="1176" alt="image" src="https://github.com/SamanKT/User-Carts_challenge/assets/49819814/73d8294f-b5ee-419d-9049-783a6db951d5">
 
